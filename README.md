@@ -21,7 +21,7 @@
 
   See [beter_sieve.rb](/beter_sieve.rb).
 
-## There is an Sculpture!
+## There is a Sculpture!
 
 The Sieve of Eratosthenes, 1999 sculpture by Mark di Suvero. Displayed at Stanford University:
 
